@@ -1,0 +1,10 @@
+# Telegram API bağlantısı için ana kütüphane
+telethon==1.38.1
+
+# SQLite işlemleri için (Python ile gömülü gelir ama versiyon kontrolü için not düşüldü)
+# pysqlite3
+
+# Sistem ve dosya işlemleri için yardımcılar
+asyncio
+hashlib
+shutil
